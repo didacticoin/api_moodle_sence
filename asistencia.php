@@ -1,3 +1,6 @@
+ * @package    block_newblock
+ * @copyright  Producciones didactic ltda. www.didactic.cl
+
 <?php
 
 class asistencia
